@@ -20,7 +20,7 @@
 
 
 
-             document.getElementsByClassName('nou')[0].getElementsByTagName('u')[0].innerHTML += " + Татузов Евгений Евгеньевич";
+             document.getElementsByClassName('nou')[0].getElementsByTagName('u')[0].innerHTML += "Hi";
              document.getElementsByClassName('header_menu_item user')[0].appendChild(w_space);
              document.getElementsByClassName('header_menu_item user')[0].appendChild(newInput);
 
