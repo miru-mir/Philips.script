@@ -1,2 +1,2 @@
 # Philips.script
-Filling the reports of Pillips' sellers in the outsourced crm.
+This userscript takes scanned reports from Philips' sellers and fills fields into CRM.
