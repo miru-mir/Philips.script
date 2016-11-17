@@ -1,2 +1,2 @@
 # Philips.script
-This userscript takes scanned reports from Philips' sellers and fills fields into CRM.
+Скрипт берет файл с отчётом в формате HTML и заполняет поля по моделям в CRM которую использует Philips для своих продавцов консультантов.
